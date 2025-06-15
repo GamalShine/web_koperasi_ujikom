@@ -1,7 +1,5 @@
 # Web Koperasi Ujikom
 
-Aplikasi **Web Koperasi** untuk memenuhi ujikom siswa SMK.
-
 ## Cara Instalasi
 
 - Clone repository:
